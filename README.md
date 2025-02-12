@@ -62,19 +62,8 @@ me.say_hi()
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:tk1_zansin)
 [![Portfolio](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)](https://https://www.rikuchestnut.com/)
 
-## 📊 Weekly development breakdown
-
-```text
-TypeScript   12 hrs 23 mins  ████████░░░░  64.23%
-Python       4 hrs 12 mins   ███░░░░░░░░░  21.83%
-Docker       1 hr 38 mins    █░░░░░░░░░░░   8.47%
-JSON         42 mins         ░░░░░░░░░░░░   3.62%
-Other        21 mins         ░░░░░░░░░░░░   1.85%
-```
-
----
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Riku-Takata&color=blueviolet" alt="Profile views">
   <br>
   <i>Happy coding!</i>
 </p>
