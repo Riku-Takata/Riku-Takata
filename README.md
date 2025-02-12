@@ -60,7 +60,7 @@ me.say_hi()
 ## 📫 How to reach me
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:tk1_zansin)
-[![Portfolio](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)](https://https://www.rikuchestnut.com/)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)](https://www.rikuchestnut.com/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Riku-Takata&color=blueviolet" alt="Profile views">
